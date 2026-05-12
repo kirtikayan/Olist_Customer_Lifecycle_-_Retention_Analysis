@@ -3,6 +3,8 @@
 <div align="center">
 
 # 🛒 Olist Customer Lifecycle & Retention Analysis
+<img width="1650" height="927" alt="Screenshot 2026-05-12 145334" src="https://github.com/user-attachments/assets/a9e3c1fc-cc63-4103-ba94-f02cb179f495" />
+
 <img width="1653" height="925" alt="Screenshot 2026-05-12 145341" src="https://github.com/user-attachments/assets/f71bbf53-a361-4a63-8849-a986f7df9a9c" />
 
 
