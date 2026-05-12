@@ -3,6 +3,8 @@
 <div align="center">
 
 # 🛒 Olist Customer Lifecycle & Retention Analysis
+<img width="1653" height="925" alt="Screenshot 2026-05-12 145341" src="https://github.com/user-attachments/assets/f71bbf53-a361-4a63-8849-a986f7df9a9c" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=900&lines=Customer+Lifecycle+Analysis;Retention+%26+Revenue+Insights;Python+%2B+Power+BI+Case+Study;Business+Insights+from+E-commerce+Data" alt="Typing SVG" />
 
